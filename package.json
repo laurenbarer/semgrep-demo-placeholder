@@ -1,0 +1,12 @@
+{
+  "name": "semgrep-demo-placeholder",
+  "version": "1.0.0",
+  "description": "Demo repository with intentional vulnerabilities for Semgrep scanning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
